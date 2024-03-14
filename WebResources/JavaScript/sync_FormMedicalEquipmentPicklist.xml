@@ -1,0 +1,103 @@
+<DependentOptionSetConfig entity="sync_projects">
+<ParentField id="sync_requesttype" label="סוג פנייה">
+<DependentField id="sync_status" label="סטאטוס"/>
+<Option value="709250000" label="חדש">
+<ShowOption value="709250010" label="מנותב לפני בחינת תיק"/>
+<ShowOption value="709250020" label="תיק בבחינה"/>
+<ShowOption value="709250030" label="חווד לאחר בחינה"/>
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250080" label="השלמות"/>
+<ShowOption value="709250090" label="הגשה לאחר השלמות"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250001" label="חידוש">
+<ShowOption value="709250010" label="מנותב לפני בחינת תיק"/>
+<ShowOption value="709250020" label="תיק בבחינה"/>
+<ShowOption value="709250030" label="חווד לאחר בחינה"/>
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250080" label="השלמות"/>
+<ShowOption value="709250090" label="הגשה לאחר השלמות"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250003" label="אישור חד פעמי">
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250004" label="אישור יבוא תקופתי">
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250005" label="אישור מכירה חופשי">
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250006" label="רישיון עסק">
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250080" label="השלמות"/>
+<ShowOption value="709250090" label="הגשה לאחר השלמות"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250007" label="רישיון תמרוקים כללי">
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250080" label="השלמות"/>
+<ShowOption value="709250090" label="הגשה לאחר השלמות"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+<Option value="709250013" label="שינוי רישום">
+<ShowOption value="709250010" label="מנותב לפני בחינת תיק"/>
+<ShowOption value="709250020" label="תיק בבחינה"/>
+<ShowOption value="709250030" label="חווד לאחר בחינה"/>
+<ShowOption value="709250040" label="מנותב לפני איסוף מסמכים"/>
+<ShowOption value="709250050" label="איסוף מסמכים"/>
+<ShowOption value="709250060" label="נשלח בדואר / מייל"/>
+<ShowOption value="709250070" label="הגשה"/>
+<ShowOption value="709250080" label="השלמות"/>
+<ShowOption value="709250090" label="הגשה לאחר השלמות"/>
+<ShowOption value="709250130" label="סיום טיפול – התקבל אישור"/>
+<ShowOption value="709250140" label="סיום טיפול – לא התקבל אישור"/>
+<ShowOption value="709250150" label="מוקפא לפי דרישת לקוח"/>
+<ShowOption value="709250160" label="מוקפא ולקוח עודכן"/>
+</Option>
+</ParentField>
+</DependentOptionSetConfig>
